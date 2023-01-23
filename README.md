@@ -1,13 +1,13 @@
 <h1 align='center'>• lPedru •</h1>
 
-◽ I'm a Brazilian guy new to the programming world, currently taking Bachelor's Degree in Computer Science <strong>(year 2 of 4)</strong> and focusing in learning Back-end development in Node.js at the moment.
+◽ I'm a Brazilian guy new to the programming world, currently taking Bachelor's Degree in Computer Science <strong>(year 2 of 4)</strong> and focusing in learning Back-end development in Node.js.
 
 <h3>Current Objectives</h3>
 <ul>
-  <li>Full Stack MERN</li>
-  <li>Build and Contribute in GitHub</li>
-  <li>Learn Cool Stuff</li>
-  <li>Have some fun!</li>
+  <li>MERN Stack</li>
+  <li>Contribute in GitHub</li>
+  <li>Learn advanced programming concepts</li>
+  <li>Keep learning new stuff everyday</li>
 </ul>
 
 <h3>Languages</h3>
@@ -36,16 +36,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lPedru&layout=compact&langs_count=7&theme=rose_pine"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lPedru&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
 </div>
-<!--
-**lPedru/lPedru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ 
