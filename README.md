@@ -1,6 +1,6 @@
 <h1 align='center'>• lPedru •</h1>
 
-◽ I'm a Brazilian guy new to the programming world, currently taking Bachelor's Degree in Computer Science <strong>(year 2 of 4)</strong> and focusing in learning Back-end development in Node.js.
+◽ I'm a Brazilian guy new to the programming world, currently taking Bachelor's Degree in Computer Science <strong>(year 3 of 4)</strong> and focusing in learning Back-end development in Node.js.
 
 <h3>Current Objectives</h3>
 <ul>
